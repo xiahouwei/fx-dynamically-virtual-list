@@ -9,3 +9,4 @@
 	</template>
 </w-virtual-list> 
 ```
+![效果](https://pic.imgdb.cn/item/6286089e094754312987b04d.gif)
